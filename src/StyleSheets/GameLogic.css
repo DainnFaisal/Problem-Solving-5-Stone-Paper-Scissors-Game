@@ -1,0 +1,30 @@
+.icons{
+    border-radius : 100px;
+    border : 2px solid black;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 8);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.computer-choose{
+    color : green;
+}
+.welcome-heading{
+    color : blue;
+}
+.choice{
+    color : Green;
+}
+.btn-set {
+    background-color : blue;
+    color : white ;
+    padding : 10px 40px;
+    border : 1px solid blue;
+    border-radius : 10px;
+    cursor : 'pointer';
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 8);
+    transition: box-shadow 0.3s ease-in-out;
+}
+.btn-set:hover{
+ background-color : black;
+ border-color : black;
+}
